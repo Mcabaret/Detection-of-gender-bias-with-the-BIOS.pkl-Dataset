@@ -1,4 +1,4 @@
-# BIOS.pkl
+# Detection of gender bias with the BIOS.pkl Dataset
 This repositorie represents my research work during my internship at the Institute of Mathematics of Toulouse.
 The codes are based on Laurent RISSER's code :
 https://github.com/lrisser/W2reg 
